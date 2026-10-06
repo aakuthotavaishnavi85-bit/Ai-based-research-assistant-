@@ -1,0 +1,14 @@
+Artificial intelligence is a field of computer science
+that focuses on creating systems capable of performing
+tasks that normally require human intelligence.
+
+Machine learning is a subset of artificial intelligence.
+It allows computers to learn patterns from data without
+being explicitly programmed for every task.
+
+Deep learning is a subset of machine learning that uses
+neural networks with multiple layers.
+
+Large language models are neural network models trained
+on large amounts of text data. They can generate and
+understand natural language.
